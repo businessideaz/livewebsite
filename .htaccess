@@ -1,4 +1,4 @@
-ErrorDocument 404 https://www.writethesis.my.id
+ErrorDocument 404 https://www.writethesis.my.id/index
 Options -MultiViews
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
