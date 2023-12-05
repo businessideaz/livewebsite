@@ -7,35 +7,35 @@ document.write(`
         <div class="topmenu row">
           <nav class="col-sm-offset-3 col-md-offset-4 col-lg-offset-4 col-sm-6 col-md-5 col-lg-5"> <a href="#"
               class="upper-top" title="Blogs"><span class="upper-top-cssicons"><i class="fa fa-rss"></i></span>
-              Blogs</a> <a href="frequently-ask-question" class="upper-top" title="Faq's"><span
-                class="upper-top-cssicons"><i class="fa fa-question-circle"></i></span> Faq's</a> <a href="career"
+              Blogs</a> <a href="frequently-ask-question.html" class="upper-top" title="Faq's"><span
+                class="upper-top-cssicons"><i class="fa fa-question-circle"></i></span> Faq's</a> <a href="career.html"
               class="upper-top" title="Career"><span class="upper-top-cssicons"><i class="fa fa-user"></i></span>
-              Career</a> <a href="contact" class="upper-top"
+              Career</a> <a href="contact.html" class="upper-top"
               title="Enquiry"><span class="upper-top-cssicons"><i class="fa fa-info-circle"></i></span> Enquiry</a> <a
-              href="contact" class="upper-top" title="Contact"><span class="upper-top-cssicons"><i
+              href="contact.html" class="upper-top" title="Contact"><span class="upper-top-cssicons"><i
                   class="fa fa-phone-square"></i></span> Contact</a>
           </nav>
           </nav>
           <nav class="text-right col-sm-3 col-md-3 col-lg-3">
-            <a href="https://www.facebook.com/globaladvertisingmedia" target="_blank" class="social-media-facebook"
+            <a href="#" target="_blank" class="social-media-facebook"
               title="Facebook"><i class="fa fa-facebook"></i></a>
 
-            <a href="https://www.linkedin.com/company/globaladvertisingmedia" class="social-media-linkedin"
+            <a href="#" class="social-media-linkedin"
               title="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
 
-            <a href="https://www.youtube.com/GlobalAdvertisingMediaPvtLtdDarbhanga" class="social-media-youtube"
+            <a href="#" class="social-media-youtube"
               title="youtube" target="_blank"><i class="fa fa-youtube"></i></a>
 
-            <a href="https://www.instagram.com/globaladvertisingmedia" class="social-media-instagram" title="instagram"
+            <a href="#" class="social-media-instagram" title="instagram"
               target="_blank"><i class="fa fa-instagram"></i></a>
 
-            <a href="https://www.pinterest.com/globaladvertisingmedia" class="social-media-pinterest" title="pinterest"
+            <a href="#" class="social-media-pinterest" title="pinterest"
               target="_blank"><i class="fa fa-pinterest-p"></i></a>
 
           </nav>
         </div>
         <div class="row header">
-          <div class="col-sm-5 col-md-5 col-lg-5"> <a href="index" id="logo"><img src="images/logo.png"
+          <div class="col-sm-5 col-md-5 col-lg-5"> <a href="index.html" id="logo"><img src="images/logo.png"
                 alt="Write Thesis Today" title="" class="img-responsive logo-top-margin"></a>
           </div>
           <div class=" col-sm-7 col-md-7 col-lg-7">
