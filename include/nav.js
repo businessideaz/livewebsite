@@ -1,5 +1,5 @@
 document.write(`
-<div class="sticky01"> <a class="fancyboxEnq fancybox.iframe feedback" href="quickenquiry"><img
+<div class="sticky01"> <a class="fancyboxEnq fancybox.iframe feedback" href="contact"><img
         src="img/r-enquiry.png" alt=""></a> </div>
   <div class="sp-body">
     <header id="this-is-top">
@@ -10,7 +10,7 @@ document.write(`
               Blogs</a> <a href="frequently-ask-question" class="upper-top" title="Faq's"><span
                 class="upper-top-cssicons"><i class="fa fa-question-circle"></i></span> Faq's</a> <a href="career"
               class="upper-top" title="Career"><span class="upper-top-cssicons"><i class="fa fa-user"></i></span>
-              Career</a> <a href="enquiry" class="upper-top"
+              Career</a> <a href="contact" class="upper-top"
               title="Enquiry"><span class="upper-top-cssicons"><i class="fa fa-info-circle"></i></span> Enquiry</a> <a
               href="contact" class="upper-top" title="Contact"><span class="upper-top-cssicons"><i
                   class="fa fa-phone-square"></i></span> Contact</a>

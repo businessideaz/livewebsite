@@ -77,13 +77,22 @@ document.write(`
 ] 
 }
 </script>
+
+
+
+<!-------------------------Menu------------------------------>
+<script src="js/jquery-latest.min.js" type="text/javascript"></script>
+<script src="js/script.js"></script>
+
+
+
 <!-------------------------Style-Sheet------------------------------>
 <link href="css/master.css" rel="stylesheet">
 <link href="css/owl.carousel.css" rel="stylesheet">
 <link href="css/owl.theme.css" rel="stylesheet">
 <!-------------------------Menu------------------------------>
 <link rel="stylesheet" href="styles.css">
-
+<link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="js/jquery-latest.min.js" type="text/javascript"></script>
 <script src="script.js"></script>
