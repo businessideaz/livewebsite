@@ -66,7 +66,7 @@ document.write(`
           Society, Near Police Head Quarters, Parfaria, Valsad, Gujarat - 396 001, INDIA. </span> <span><i
             class="fa fa-mobile"></i><a href="tel:+917079203070">+91 7079203070</a></span> <span><strong
             class="footer-headtext-bot">Website :</strong><br>
-          <a href="index-2" target="_blank">www.globaladvertisingmedia.com</a></span> </div>
+          <a href="index" target="_blank">wwwwritethesistoday.com</a></span> </div>
     </div>
   </div>
   <div class="copy text-right"><a id="to-top" href="#this-is-top"><i class="fa fa-chevron-up"></i></a>Copyright
