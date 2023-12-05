@@ -59,7 +59,7 @@ document.write(`
       <div class="container">
         <div id='cssmenu'>
           <ul>
-            <li><a href='index' class="act" title="Home">Home</a> </li>
+            <li><a href='index.html' class="act" title="Home">Home</a> </li>
 
             <li><a href='outdoor-advertising' class="" title="Our Services ">Our Services</a>
               <ul>
