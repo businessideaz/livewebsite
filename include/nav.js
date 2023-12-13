@@ -102,13 +102,13 @@ document.write(`
               </ul>
             </li>
 
-            <li><a href='about.html' class="submenu-bgcolor" title="About Us"><i
-                  class="fa fa-recycle"></i>&nbsp;&nbsp; About Us</a></li>
-            <li><a href='mission.html' class="submenu-bgcolor" title="Mission"><i class="fa fa-trophy"></i>&nbsp;&nbsp;
-                Mission</a></li>
-           
-            <li><a href="contact.html" class="submenu-bgcolor" title="Contact"><span class="submenu-bgcolor"><i
-                    class="fa fa-phone-square"></i></span> Contact</a></li>
+            <li><a href='about.html' class="submenu-bgcolor" title="About Us"><i class="fa fa-recycle"></i>&nbsp;&nbsp; About Us</a></li>
+            <li><a href='mission.html' class="submenu-bgcolor" title="Mission"><i class="fa fa-trophy"></i>&nbsp;&nbsp; Mission</a></li>
+            <li><a href="career.html" class="submenu-bgcolor" title="Career"><span class="submenu-bgcolor"><i class="fa fa-user"></i></span> Career</a></li>
+            <li><a href="blog.html" class="submenu-bgcolor" title="Career"><span class="submenu-bgcolor"><i class="fa fa-rss"></i></span> Blogs</a></li>
+            <li><a href="contact.html" class="submenu-bgcolor" title="Contact"><span class="submenu-bgcolor"><i class="fa fa-phone-square"></i></span> Contact</a></li>
+            <li><a href="#" class="submenu-bgcolor" title="Career"><span class="submenu-bgcolor"><i class="fa fa-user"></i></span> We Hire</a></li>
+
 
 
           </ul>

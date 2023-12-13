@@ -1,4 +1,6 @@
 document.write(`
+
+  
 <footer>
 <div class="color-part2"></div>
 <div class="color-part"></div>
@@ -8,18 +10,9 @@ document.write(`
       <h4 class="footer-heading-style">Global Advertising Media </h4>
       <p>An Internet Advertising and Website Marketing Company based in the India. We take pride in playing an
         important role in helping other businesses establish a strong Internet presence. </p>
-      <a href="about-global-advertising-media" class="btn btn-lg btn-danger" style="color:#F9FD2A;">Read More
+      <a href="#" class="bt n btn-lg btn-danger" style="color:#F9FD2A;">Read More
         &#187;</a>
-      <div class="footer-icons"> <a href="https://www.facebook.com/globaladvertisingmedia" title="facebook"
-          target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a> <a
-          href="https://www.linkedin.com/company/globaladvertisingmedia" title="linkedin" target="_blank"><i
-            class="fa fa-linkedin-square fa-2x"></i></a> <a href="https://www.twitter.com/globaladvt"
-          title="twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> <a
-          href="https://www.youtube.com/GlobalAdvertisingMediaPvtLtdDarbhanga" title="youtube" target="_blank"><i
-            class="fa fa-youtube-square fa-2x"></i></a> <a href="https://www.instagram.com/globaladvertisingmedia"
-          title="instagram" target="_blank"><i class="fa fa-instagram fa-2x"></i></a> <a
-          href="https://www.pinterest.com/globaladvertisingmedia/" title="pinterest" target="_blank"><i
-            class="fa fa-pinterest-square fa-2x"></i></a> </div>
+      
     </div>
     <div class="col-sm-2 wow zoomIn fotter-one" data-wow-delay="0.3s">
       <h4 class="footer-heading-style">Sitemap</h4>
@@ -32,11 +25,7 @@ document.write(`
           href="outdoor-advertising" class="footer-bot-border" title="Outdoor Advertisement"><span
             class="footer-list-bullet">&diams;</span> Outdoor Advertisement</a>
         <!--<a href="newspaper-ads" class="footer-bot-border" title="Newspaper Ads"><span class="footer-list-bullet">&diams;</span> Newspaper Ads</a>-->
-        <a href="google-my-business-listing" class="footer-bot-border" title="My Google Bussiness"><span
-            class="footer-list-bullet">&diams;</span> My Google Business</a> <a href="blogs/index"
-          class="footer-bot-border" title="Blogs"><span class="footer-list-bullet">&diams;</span> Blogs</a> <a
-          href="frequently-ask-question" class="footer-bot-border" title="FAQ"><span
-            class="footer-list-bullet">&diams;</span> FAQ's</a>
+        
       </nav>
     </div>
     <div class="col-sm-3 wow zoomIn fotter-one" data-wow-delay="0.3s">
@@ -50,20 +39,13 @@ document.write(`
           Optimization (SEO)</a> <a href="social-media-optimization-services" class="footer-bot-border"
           title="Social Media Optimization(SMO)"><span class="footer-list-bullet">&diams;</span> Social Media
           Optimization (SMO)</a> <a href="graphic-designing-services-company" class="footer-bot-border"
-          title="Graphic Design"><span class="footer-list-bullet">&diams;</span> Graphic Design</a> <a
-          href="website-designing-company" class="footer-bot-border" title="Website Design"><span
-            class="footer-list-bullet">&diams;</span> Website Design</a> <a href="website-development-company"
-          class="footer-bot-border" title="Website Development"><span class="footer-list-bullet">&diams;</span>
-          Website Development</a> <a href="content-writing-services" class="footer-bot-border"
-          title="Content Writing"><span class="footer-list-bullet">&diams;</span> Content Writing</a> </nav>
+          title="Graphic Design"><span class="footer-list-bullet">&diams;</span> Graphic Design</a>   </nav>
     </div>
     <div class="col-sm-4 wow zoomIn fotter-one" data-wow-delay="0.3s">
       <h4 class="footer-heading-style">Contact Us</h4>
-      <div class="contact-info"> <span><strong class="footer-headtext-bot">GLOBAL ADVERTISING MEDIA PRIVATE
-            LIMITED<br>
+      <div class="contact-info"> <span><strong class="footer-headtext-bot">Write Thesis Today<br>
           </strong></span> <span><strong class="footer-headtext-bot"># Head Office (Gujrat)</strong></span> <span>
-          Abrama Road, Behind Darpan
-          Society, Near Police Head Quarters, Parfaria, Valsad, Gujarat - 396 001, INDIA. </span> <span><i
+          Bihar Darbhanga 846 009, INDIA. </span> <span><i
             class="fa fa-mobile"></i><a href="tel:+917079203070">+91 7079203070</a></span> <span><strong
             class="footer-headtext-bot">Website :</strong><br>
           <a href="index" target="_blank">wwwwritethesistoday.com</a></span> </div>
@@ -74,3 +56,24 @@ document.write(`
 </div>
 </footer>
 `);
+
+{/* <div class="container-fluid partners block-content" style="padding:0;">
+    <div class="hgroup title-space wow fadeInLeft" data-wow-delay="0.3s">
+      <h1 class="our-partner-headtext">We Partner with</h1>
+    </div>
+    <div id="partners" class="owl-carousel enable-owl-carousel" data-pagination="false" data-navigation="true"
+      data-min450="2" data-min600="2" data-min768="4">
+      <div class="wow rotateIn partner-img-div" data-wow-delay="0.3s"><img src="images/partners/bing-ads.jpg"
+          alt="Bing Ads Agency" title="Bing Ads" class="partners-img"></div>
+      <div class="wow rotateIn partner-img-div" data-wow-delay="0.3s"><img src="images/partners/facebook-ads.jpg"
+          alt="Facebook Advertising Agency" title="Facebook Ads" class="partners-img"></div>
+      <div class="wow rotateIn partner-img-div" data-wow-delay="0.3s"><img src="images/partners/google-partners.jpg"
+          alt="Google Partners in India" title="Google Partners" class="partners-img"></div>
+      <div class="wow rotateIn partner-img-div" data-wow-delay="0.3s"><img src="images/partners/linkedin.jpg"
+          alt="LinkedIn Marketing &amp; Advertising" title="Linkedin Ads" class="partners-img"></div>
+      <div class="wow rotateIn partner-img-div" data-wow-delay="0.3s"><img src="images/partners/msn.jpg"
+          alt="Microsoft Advertising" title="MSN" class="partners-img"></div>
+      <div class="wow rotateIn partner-img-div" data-wow-delay="0.3s"><img src="images/partners/yahoo-search.jpg"
+          alt="Yahoo Search Marketing" title="Yahoo Search" class="partners-img"></div>
+    </div>
+  </div> */}
